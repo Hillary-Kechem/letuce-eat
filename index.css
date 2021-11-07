@@ -2,12 +2,15 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    
 }
 ul li{
-    display: inline-block;
+    display: flex;
     padding: 08px 16px;
     text-decoration: none;
     float: right;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 .MotherDiv{
     background-image: url(images/image2.png);
@@ -15,7 +18,7 @@ ul li{
     background-position: center;
     background-size: cover;
     position: relative;
-    text-align: left;
+    text-align: center;
 }
 .table{
     background-image: url(images/image8.png);
@@ -31,7 +34,8 @@ ul li{
 
 .landpage{
     color:white;
-    justify-content: center;
+    justify-content: left;
+    padding-left: 0;
     display: inline-block;
 }
 .review img{
@@ -40,7 +44,7 @@ ul li{
     padding: 10px;
 }
 .review{
-    display: flex;
+    display: inline-flex;
     text-align: center;
 
 }
@@ -51,6 +55,7 @@ ul li{
 }
 .menu{
     text-align: center;
+    
 }
 .menu1 {
     justify-content: center;
@@ -89,20 +94,26 @@ button{
     border-width: 10px;
 }
 .chapati{
-    border: yellow;
-    border-style: groove;
+    border: whitesmoke;
+    background-color: whitesmoke;
     float: inline-end;
     display: flex;
+    height: 250px;
+    width: 50%;
+    margin: 25px;
+   
 }
 span{
     color: #F19201
 }
-.btn2{
+.circle{
         background: #F19201;
         border-radius: 50%;
         height: 50px;
         width: 50px;
         display: inline-flex;
+        text-align: center;
+
     }
 footer{
     text-align: center;
