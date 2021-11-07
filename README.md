@@ -18,7 +18,7 @@ To access this project on your local files, you can clone it using these steps
 https://github.com/KechemKip/letuce-eat.git
 ## Live Site:
 https://github.com/KechemKip/letuce-eat.git
-###Licence
+## Licence
 This website is under the MIT license
 Copyright (c) 2021 Hillary Kipkechem
   
