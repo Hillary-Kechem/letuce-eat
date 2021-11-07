@@ -1,6 +1,8 @@
 # letuce-eat# letuce-eat
-#### This is a restaraunt website. The website is used in a restaraunt to order and see the menu. {}
-#### By **Hillary Kipkechem**
+#### Letuce-eat
+This is a restaraunt website. The website is used in a restaraunt to order and see the menu.
+#### author
+**Hillary Kipkechem**
 ## Description
 Letuce-eat is a restaraunt website. letuce-eat can be used by customer to order their food,book a seat and also find information about the restaraunt.
 ## Setup/Installation Requirements
