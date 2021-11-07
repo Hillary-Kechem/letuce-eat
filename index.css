@@ -14,6 +14,7 @@ ul li{
     float: right;
     flex-wrap: wrap;
     justify-content: space-around;
+    color: whitesmoke;
 }
 .MotherDiv{
     background-image: url(images/image2.png);
