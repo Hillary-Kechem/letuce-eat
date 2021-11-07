@@ -21,7 +21,7 @@ ul li{
     background-position: center;
     background-size: cover;
     position: relative;
-    text-align: center;
+    
 }
 .table{
     background-image: url(images/image8.png);
@@ -37,11 +37,12 @@ ul li{
      color: whitesmoke;
  }
 
-.landpage{
+.premium{
     color:white;
     justify-content: left;
     padding-left: 0;
     display: inline-block;
+    padding:60px 0px 0px 30px;
 }
 .review img{
     margin: auto;
