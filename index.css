@@ -33,6 +33,8 @@ ul li{
  .tbl{
      text-align: center;
      padding-top: 20px;
+     font-style: italic;
+     color: whitesmoke;
  }
 
 .landpage{
