@@ -16,7 +16,7 @@ To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 2. Use this command to clone `$ git clone
 https://github.com/KechemKip/letuce-eat.git
-##live Site:
+## Live Site:
 https://github.com/KechemKip/letuce-eat.git
 ###Licence
 This website is under the MIT license
