@@ -22,5 +22,6 @@ https://github.com/KechemKip/letuce-eat.git
 https://github.com/KechemKip/letuce-eat.git
 ## Licence
 This website is under the MIT license
+## Copyright
 Copyright (c) 2021 Hillary Kipkechem
   
